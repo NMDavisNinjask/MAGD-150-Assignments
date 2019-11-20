@@ -12,7 +12,7 @@ This is an example of using gravity and scales to make a character jump
 
 This is an example using draws to make moving bees on a TV screen
 
-2.  [Click to see the source code](
+2.  [Click to see the source code](https://github.com/NMDavisNinjask/MAGD-150-Assignments/tree/gh-pages/Puzzle_shoe_2019_11_20_19_13_44)
 # Example 3:
 This is an example of using strings and fonts to make a image move
 
