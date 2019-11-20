@@ -18,4 +18,5 @@ Below are examples of code written for Pj5s
 4.  [Click to see the source code](
 # Example 5:
 This is for 3d objects and the use of the camera.
-5.  [Click to see the source code](
+
+5.  [Click to see the source code](https://github.com/NMDavisNinjask/MAGD-150-Assignments/tree/master/Lab_10_2019_11_20_19_11_57)
