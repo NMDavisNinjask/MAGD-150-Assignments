@@ -16,9 +16,10 @@ This is an example using draws to make moving bees on a TV screen
 # Example 3:
 This is an example of using strings and fonts to make a image move
 
-3.  [Click to see the source code](
+3.  [Click to see the source code](https://github.com/NMDavisNinjask/MAGD-150-Assignments/tree/gh-pages/Lab_8_2019_11_20_19_12_08)
 # Example 4:
 This is an example using images to make a changing image with sounds
+
 4.  [Click to see the source code](https://github.com/NMDavisNinjask/MAGD-150-Assignments/tree/gh-pages/Lab_9_2019_11_20_19_12_16)
 # Example 5:
 This is for 3d objects and the use of the camera.
