@@ -1,10 +1,21 @@
 # **MAGD 150 Assignments**
 
-Tis is a repository for MAGD 150
+This is a repository for MAGD 150
 
+Below are examples of code written for Pj5s
 
-1.  [Click to see the sourse code](
-2.  [Link](
-3.  [Link](
-4.  [Link](
-5.  [Link](
+# Example 1:
+
+1.  [Click to see the source code](
+# Example 2:
+
+2.  [Click to see the source code](
+# Example 3:
+
+3.  [Click to see the source code](
+# Example 4:
+
+4.  [Click to see the source code](
+# Example 5:
+This is for 3d objects and the use of the camera.
+5.  [Click to see the source code](
