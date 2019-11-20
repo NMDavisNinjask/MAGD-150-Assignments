@@ -7,7 +7,7 @@ Below are examples of code written for Pj5s
 # Example 1:
 This is an example of using gravity and scales to make a character jump
 
-1.  [Click to see the source code](
+1.  [Click to see the source code](https://github.com/NMDavisNinjask/MAGD-150-Assignments/tree/gh-pages/Fancy_elf_2019_11_20_19_12_40)
 # Example 2:
 
 This is an example using draws to make moving bees on a TV screen
